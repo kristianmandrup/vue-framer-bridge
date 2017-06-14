@@ -1,5 +1,7 @@
 # Vue Framer bridge
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/vue-framer-bridge.svg)](https://greenkeeper.io/)
+
 Bridging the last gap the in design - developer workflow :)
 
 ## Goal
